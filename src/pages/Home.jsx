@@ -13,6 +13,7 @@ const Home = () => {
       </Helmet>
       <h1 className="text-4xl font-bold text-gray-900">Welcome to Our Studio 📷</h1>
       <p className="text-lg text-gray-600 mt-2">High-quality photography for weddings, portraits, and more.</p>
+      <p className="text-lg text-gray-600 mt-2">Photography is best.</p>
     </div>
   );
 };
